@@ -3,6 +3,8 @@
 U2FsdGVkX1+i7J0AddE+UCefPvnTN80iQXYdCuUSP7h5F+q1ddiHLzF7v+GwLdjQ
 oQWR95x6lKaaAqhKgBKpiz5WXgUfSTwdK4CU+Mw1j/o=
 
+This is a whatsapp group invite link that has been encoded twice, find out the encryptions used, decode it and join the group.
+
 Happy Birthday to me 🎉
 shout from [Prince AY](./Abdulconsole.html)
 
